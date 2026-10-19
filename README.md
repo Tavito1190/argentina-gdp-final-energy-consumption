@@ -1,4 +1,4 @@
-# Argentina-gdp-final-energy-consumption
+
 Analysis of the relationship between GDP and Final Energy Consumption in Argentina (1970–2025).
 [View Full Research Paper (PDF)](documents/PBI%20vs%20CFE_Argentina%201970-2025.pdf)
 
